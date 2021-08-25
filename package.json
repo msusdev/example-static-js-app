@@ -2,7 +2,7 @@
     "name": "example-static-js-app",
     "main": "index.js",
     "scripts": {
-        "start": "http-server"
+        "start": "http-server --cors"
     },
     "repository": {
         "type": "git",
